@@ -1,0 +1,12 @@
+{
+  "base_dir": "/home/you/src",
+  "repos": [
+    {
+      "name": "example",
+      "url": "https://github.com/user/example.git",
+      "path": "example",
+      "install": ["make", "install"]
+    }
+  ]
+}
+
